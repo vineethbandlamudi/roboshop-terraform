@@ -4,5 +4,5 @@ provider "azurerm" {
 }
 
 terraform {
-  backend "azure" {}
+  backend "azurerm" {}
 }
