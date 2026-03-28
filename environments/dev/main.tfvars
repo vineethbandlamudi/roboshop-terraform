@@ -20,16 +20,34 @@ databases = {
   }
 
 applications = {
-    catalogue = {}
-    user = {}
-    cart = {}
-    payment = {}
-    shipping = {}
-    frontend = {}
+    catalogue = {
+      rg_name = "ukwest"
+    }
+    user = {
+      rg_name = "ukwest"
+    }
+    cart = {
+      rg_name = "ukwest"
+    }
+    payment = {
+      rg_name = "ukwest"
+    }
+    shipping = {
+      rg_name = "ukwest"
+    }
+    frontend = {
+      rg_name = "ukwest"
+    }
   }
 
 rg_name = {
   ukwest = {
     location = "UK West"
+  }
+}
+
+aks = {
+  main-dev = {
+    rg_name = "ukwest"
   }
 }

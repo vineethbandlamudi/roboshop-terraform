@@ -6,3 +6,4 @@ variable "databases" {}
 variable "applications" {}
 variable "rg_name" {}
 variable "env" {}
+variable "aks" {}
