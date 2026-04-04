@@ -35,7 +35,7 @@ module "aks" {
   for_each = var.aks
   source = "./modules/aks"
   name = each.key
-  rg_name = module.rg[each.value["rg_name"]].location
-  rg_location = module.rg[each.value["rg_name"]].name
+  rg_name = module.rg[each.value["rg_name"]].name
+  rg_location = module.rg[each.value["rg_name"]].location
 }
 
