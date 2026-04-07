@@ -66,7 +66,7 @@ resource "null_resource" "ansible" {
       "sudo dnf install python3.12 python3.12-pip -y",
       "sudo pip3.12 install ansible",
       "sudo dnf install git -y",
-      "ansible-pull -i localhost -U https://github.com/vineethbandlamudi/roboshop-ansible.git -e role_name=${local.role_name} -e component_name=${var.name} -e env=dev"
+      "ansible-pull -i localhost -U https://github.com/vineethbandlamudi/roboshop-ansible.git roboshop.yml -e role_name=${local.role_name} -e component_name=${var.name} -e env=dev"
     ]
     connection {
       type        = "ssh"
