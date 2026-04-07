@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c9eefe7-72e7-4e81-a33e-a4abfceb7ee8" name="Changes" comment="Terraform code">
+      <change beforePath="$PROJECT_DIR$/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/main.tf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vineethbandlamudi/roboshop-terraform.git&quot;,
+    &quot;accountId&quot;: &quot;196a4772-7bf3-4289-bbe3-434cbba3b26e&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3AxfHMZoZVkZhQ0dOp9HlOEpfOR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Terraform.Validate roboshop-terraform.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Administrator/IdeaProjects/roboshop-terraform/modules/vm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\roboshop-terraform\modules\vm" />
+      <recent name="C:\Users\Administrator\IdeaProjects\roboshop-terraform\modules\environments\prod" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\roboshop-terraform\" />
+      <recent name="C:\Users\Administrator\IdeaProjects\roboshop-terraform\modules" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="roboshop-terraform" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="roboshop-terraform" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Validate roboshop-terraform" type="TerraformConfigurationType" factoryName="Terraform validate" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="commandType" value="VALIDATE" />
+      <option name="envFilePaths">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="globalOptions" value="" />
+      <option name="passGlobalOptions" value="false" />
+      <option name="passParentEnvs" value="true" />
+      <option name="programArguments" value="" />
+      <option name="programParameters" value="validate" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="workingDirectory" value="C:\Users\Administrator\IdeaProjects\roboshop-terraform" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Terraform.Validate roboshop-terraform" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28539.33" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c9eefe7-72e7-4e81-a33e-a4abfceb7ee8" name="Changes" comment="" />
+      <created>1773539054881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773539054881</updated>
+      <workItem from="1773539057841" duration="902000" />
+      <workItem from="1773639749503" duration="7442000" />
+      <workItem from="1773729026663" duration="1834000" />
+      <workItem from="1773738105045" duration="906000" />
+      <workItem from="1773764588679" duration="1447000" />
+      <workItem from="1773815794880" duration="6916000" />
+      <workItem from="1774025720007" duration="1958000" />
+      <workItem from="1774075045898" duration="3234000" />
+      <workItem from="1774112315758" duration="2234000" />
+      <workItem from="1774250608573" duration="17000" />
+    </task>
+    <task id="LOCAL-00001" summary="Terraform code for Frontend">
+      <option name="closed" value="true" />
+      <created>1773646342248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773646342248</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Terraform code for Frontend">
+      <option name="closed" value="true" />
+      <created>1773655078584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773655078584</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Terraform code">
+      <option name="closed" value="true" />
+      <created>1773822958289</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773822958289</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Terraform code">
+      <option name="closed" value="true" />
+      <created>1773823050231</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773823050231</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Terraform code">
+      <option name="closed" value="true" />
+      <created>1773827016258</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773827016258</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Terraform code">
+      <option name="closed" value="true" />
+      <created>1773827026507</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773827026507</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Terraform code">
+      <option name="closed" value="true" />
+      <created>1773827308695</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773827308695</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Terraform code">
+      <option name="closed" value="true" />
+      <created>1774112402021</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774112402021</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Terraform code">
+      <option name="closed" value="true" />
+      <created>1774113067977</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1774113067977</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Terraform code">
+      <option name="closed" value="true" />
+      <created>1774684282039</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774684282039</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Terraform code">
+      <option name="closed" value="true" />
+      <created>1774684297729</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1774684297729</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Terraform code">
+      <option name="closed" value="true" />
+      <created>1775284515593</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1775284515593</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Makefile" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Terraform code for Frontend" />
+    <MESSAGE value="Terraform code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terraform code" />
+  </component>
+</project>
