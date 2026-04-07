@@ -16,6 +16,7 @@ module "databases" {
   zone_name                  = var.zone_name
   network_security_group_id  = var.network_security_group_id
   type                       = "db"
+  dns_rg_name                = "project-setup"
 }
 #
 # module "applications" {

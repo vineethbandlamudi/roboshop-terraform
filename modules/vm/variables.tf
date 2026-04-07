@@ -6,3 +6,4 @@ variable "zone_name" {}
 variable "network_security_group_id" {}
 variable "rg_location" {}
 variable "type" {}
+variable "dns_rg_name" {}
