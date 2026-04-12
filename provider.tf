@@ -5,4 +5,16 @@ provider "azurerm" {
 
 terraform {
   backend "azurerm" {}
+  required_providers {
+    vault = {
+      source  = "hashicorp/vault"
+      version = "5.0.0"
+    }
+  }
+}
+
+provider "helm" {
+  kubernetes {
+    config_path = "~/.kube/config"
+  }
 }
