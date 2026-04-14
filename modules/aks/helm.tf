@@ -1,4 +1,4 @@
-resource "null_resource" "kubeconfig {
+resource "null_resource" "kubeconfig" {
   depends_on = [
   azurerm_kubernetes_cluster.myaks
   ]
