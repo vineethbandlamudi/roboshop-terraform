@@ -7,3 +7,4 @@ variable "applications" {}
 variable "rg_name" {}
 variable "env" {}
 variable "aks" {}
+variable "token" {}
